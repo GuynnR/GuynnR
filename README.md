@@ -12,5 +12,5 @@ I am a Front-End Web Developer, System Administrator and Cyber Analyst!
 ![](https://img.shields.io/badge/Tool-NPM-red)
 
 ## How to reach me 📫
-discord ➔ Hissing#5433</br>
-email ➔ rickyguynn99@gmail.com
+![](https://i.imgur.com/UcLktj9.png) ➔ Hissing#5433</br>
+![](https://i.imgur.com/5nye7GA.png) ➔ rickyguynn99@gmail.com
