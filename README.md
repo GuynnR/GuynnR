@@ -13,4 +13,4 @@ I am a Front-End Web Developer, System Administrator and Cyber Analyst!
 
 ## Ways of Contact! 📫
 ![](https://i.imgur.com/UcLktj9.png) ➔ Hissing#5433</br>
-![](https://i.imgur.com/5nye7GA.png) ➔ rickyguynn99@gmail.com
+![](https://i.imgur.com/5nye7GA.png) ➔ rguynn@mntserver.com
