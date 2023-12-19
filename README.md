@@ -13,4 +13,4 @@ I am a Front-End Web Developer, System Administrator and Cyber Analyst!
 ![](https://img.shields.io/badge/Tool-NPM-red)
 
 ## Ways of Contact! 📫
-![](https://i.imgur.com/UcLktj9.png) ➔ Hissing#1337</br>
+![](https://i.imgur.com/UcLktj9.png) ➔ hissing</br>
