@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Front-End Web Developer, System Administrator and Cyber Analyst!
-![Ussen's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuynnR&show_icons=true,count_private=true&theme=radical)
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuynnR&show_icons=true,count_private=true&theme=radical)
 
 ## Technologies & Tools 🔧
 ![](https://img.shields.io/badge/Language-HTML-orange)
